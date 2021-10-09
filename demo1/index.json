@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes basics",
-  "description": "Setting up kubectl to interact with your cluster",
+  "description": "Setting up kubectl to interact with your cluster.",
   "difficulty": "Beginner",
   "time": "30 min",
   "details": {
