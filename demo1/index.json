@@ -1,6 +1,6 @@
 {
-  "title": "First demonstration",
-  "description": "how to login",
+  "title": "Kubernetes basics",
+  "description": "Setting up kubectl to interact with your cluster",
   "difficulty": "Beginner",
   "time": "30 min",
   "details": {
@@ -30,7 +30,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "kubernetes"
